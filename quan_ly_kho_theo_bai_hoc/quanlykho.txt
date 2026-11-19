@@ -1,0 +1,3 @@
+MT001|Laptop Dell Inspiron 15|Thiet bi may tinh|Cai|Dell Vietnam|14500000|16500000|12|5|Con hang
+MT002|Chuot khong day Logitech M331|Thiet bi may tinh|Cai|Logitech|180000|250000|45|15|Con hang
+MT003|Ban phim co Keychron K2|Thiet bi may tinh|Cai|Keychron|1400000|1750000|8|10|Sap het hang

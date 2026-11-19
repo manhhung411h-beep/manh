@@ -1,0 +1,20 @@
+MT001|Laptop Dell Inspiron 15|Thiet bi may tinh|Cai|Dell Vietnam|14500000|16500000|12|5|Con hang
+MT002|Chuot khong day Logitech M331|Thiet bi may tinh|Cai|Logitech|180000|250000|45|15|Con hang
+MT003|Ban phim co Keychron K2|Thiet bi may tinh|Cai|Keychron VN|1400000|1750000|8|10|Sap het hang
+MT004|O cung SSD Samsung 500GB|Thiet bi may tinh|Cai|Samsung|1100000|1400000|25|10|Con hang
+MT005|RAM Kingston 8GB DDR4|Thiet bi may tinh|Thanh|Kingston|520000|650000|3|10|Sap het hang
+MT006|Man hinh LG 24 inch|Thiet bi may tinh|Cai|LG Electronics|2800000|3300000|15|5|Con hang
+DT001|Tai nghe Bluetooth Sony CH520|Thiet bi dien tu|Cai|Sony Vietnam|850000|1090000|20|8|Con hang
+DT002|Loa Bluetooth JBL Go 3|Thiet bi dien tu|Cai|JBL|650000|850000|4|8|Sap het hang
+DT003|Sac du phong Anker 10000mAh|Thiet bi dien tu|Cai|Anker|450000|590000|30|10|Con hang
+DT004|Cap sac USB-C Baseus|Thiet bi dien tu|Soi|Baseus|70000|120000|100|30|Con hang
+DT005|Dien thoai Samsung Galaxy A15|Thiet bi dien tu|Chiec|Samsung|4200000|4890000|0|5|Het hang
+VP001|But bi Thien Long TL-027|Van phong pham|Cay|Thien Long|3000|5000|500|100|Con hang
+VP002|Vo ke ngang Campus 96 trang|Van phong pham|Quyen|Hong Ha|9000|14000|200|50|Con hang
+VP003|Giay A4 Double A 70gsm|Van phong pham|Ram|Double A|68000|85000|12|20|Sap het hang
+VP004|Kep giay bo 12 cai|Van phong pham|Hop|Deli|8000|12000|80|20|Con hang
+VP005|But highlight Stabilo|Van phong pham|Cay|Stabilo|12000|18000|60|20|Con hang
+GD001|Noi com dien Sharp 1.8L|Do gia dung|Cai|Sharp Vietnam|780000|990000|10|5|Con hang
+GD002|Am dun sieu toc Philips|Do gia dung|Cai|Philips|420000|550000|14|5|Con hang
+GD003|Quat dung Senko|Do gia dung|Cai|Senko|380000|480000|2|6|Sap het hang
+GD004|Binh giu nhiet Lock&Lock 500ml|Do gia dung|Cai|Lock&Lock|190000|260000|35|10|Con hang
